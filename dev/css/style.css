@@ -1,0 +1,9 @@
+html{
+	background: linear-gradient(.1,.4,#555);
+	color:green;
+}
+h1 {
+	font-size: 3rem;
+	font-style: italic;
+	font-family: Arial, sans-serif;
+}
